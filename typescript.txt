@@ -1,0 +1,41 @@
+tsc -v
+npx tsc -v
+npx tsc -w (typescript warch mode e chole jabe)
+
+tsc script.ts ( typescript k, js e convert korte use hoi)
+
+
+npm init -y
+npm i -g typescript
+or
+npm i --save-dev typescript
+
+
+npx tsc --init (tsconfig.js - file create)
+npx tsc index.ts (ts to js)
+npx tsc index.ts --watch
+
+npx create-react-app my-app --template typescript
+npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+
+
+type
+interface, implements
+enum 
+tuples
+generics
+HTMLInputElement
+---------------------
+https://www.typescriptlang.org/tsconfig
+https://www.typescriptlang.org/tsconfig#target
+https://www.typescriptlang.org/download
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+https://www.typescriptlang.org/docs/handbook/2/functions.html
+https://www.typescriptlang.org/docs/handbook/2/objects.html
+https://devhints.io/typescript
+https://devsonket.com/typescript
+https://www.typescriptlang.org/docs/handbook/enums.html
+
+**** typescript is a javascript super set
+------------------------------------------------
+optional type ( dilew hbe, na dilew hbe)--- c?:number 
